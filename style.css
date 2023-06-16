@@ -1,0 +1,33 @@
+body{
+    background-color: lightgreen;
+    font-family: 'Caveat', cursive;
+}
+.header_div{
+    background-color: lightgreen;
+    color:black; 
+}
+.header_div p{
+    ffont-family: 'Caveat', cursive;
+    color:darkgreen;
+    letter-spacing: 3px;
+    font-size: 15px;
+    font-weight: bold;
+}
+.main_div button{
+    font-family: 'Caveat', cursive;
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 4px;;
+}
+.copy_right_footer{
+    position: fixed;
+    color: black;
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    background-color: lawngreen;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px lightgreen;
+}
